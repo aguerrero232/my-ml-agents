@@ -10,4 +10,4 @@ Going through and learning the Unity MLAgents Framework, and more about machine 
 
 * Learns to control its own movement velocity and to avoid falling off the edge of the floor while also hitting the target.
 
-***[View Demo Here](https://play.unity.com/mg/other/webgl-builds-187355)***
+[***My Trained Agent Can Be Seen Here***](https://play.unity.com/mg/other/webgl-builds-187355)
